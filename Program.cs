@@ -16,6 +16,7 @@ namespace CalculoDaMedia
 			media = (x + y) / 2.0;
 			Console.WriteLine("Media = " + media);
 
+			Console.ReadLine();
 		}
 	}
 }
